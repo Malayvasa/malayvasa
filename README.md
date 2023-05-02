@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a designer + developer focusing on crafting interactions.
 
 <!--
 **Malayvasa/malayvasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
